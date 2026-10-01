@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated paper."
+title: "Hydropower in the Headlines: Reproducibility Materials"
+authors:
+  - family-names: "Deegan"
+    given-names: "Jason"
+version: 1.0.0
+date-released: 2026-10-01
+repository-code: "https://github.com/jason-uis/Hydropower-in-the-Headlines"
+license: "CC BY 4.0"
